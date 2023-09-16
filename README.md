@@ -1,0 +1,2 @@
+# GoodSpickerTgBot
+No openai ))
